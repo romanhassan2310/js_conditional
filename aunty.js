@@ -1,0 +1,14 @@
+/**
+ * -------------------------
+ *  COMPARISON
+ * 1. bigger: >
+ * 2. less or smaller: <
+ * 3. equal: ==
+ * 4. grater than or equal: >=
+ * 5. less than or equal: <=
+ * 6. not equal: !=
+ * 
+ * --------------------------
+ * 7. and: &&
+ * 8. or: ||
+ */
